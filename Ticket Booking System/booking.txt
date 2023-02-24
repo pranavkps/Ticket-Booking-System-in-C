@@ -1,0 +1,26 @@
+
+			BOOKING FOR TICKERS 
+	____________________________________________________
+     			
+			*****ALL SHOWS*****
+	____________________________________________________
+
+	TOTAL NO OF SEATS ARE         :  425
+
+	NO OF SEATS IN LOWER CLASS    :  75
+     	NO OF SEATS IN DRESS CIRCLE   :  225
+     	NO OF SEATS IN BALCONY        :  125
+
+			   PRICE DETAILS
+	____________________________________________________
+                                   
+     	1 LOWER CLASS                 :  RS 40.00  PER HEAD
+     	2 DRESS CIRCLE                :  RS 80.00  PER HEAD
+     	3 BALCONY                     :  RS 120.00 PER HEAD
+	____________________________________________________
+
+	4 CLEAR/GOBACK
+     	5 QUIT THE TERMINEL
+
+	____________________________________________________
+

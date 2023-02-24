@@ -1,0 +1,10 @@
+____________________________________________________________________
+|   								    |    
+|	1 	MOVIES						    |
+|	2	DRAMA						    |
+|	3 	CIRCUS / EXHIBITION				    |
+|	4  	ANY OTHER CULTURAL EVENTS IN MY AREA		    |
+|	5  	MY ACCOUNT					    |
+|	6	QUIT THE TERMINAL				    |
+|	7 	CLEAR/GO BACK					    |
+|___________________________________________________________________|

@@ -1,0 +1,26 @@
+
+			BOOKING FOR DRAMA 
+	____________________________________________________
+
+     			*****ALL DRAMAS*****
+	____________________________________________________
+
+	TOTAL NO OF SEATS ARE         :  425
+
+	NO OF SEATS IN FROUNT CLASS   :  175
+     	NO OF SEATS IN BACK CLASS     :  250
+     	
+
+			   PRICE DETAILS
+	___________________________________________________
+                                   
+     	1 	FROUNT CLASS          :  RS 150.00  PER HEAD
+     	2 	BACK CLASS            :  RS 100.00  PER HEAD
+ 
+	___________________________________________________
+
+	3 	CLEAR/GOBACK
+     	4 	QUIT THE TERMINEL
+
+	____________________________________________________
+

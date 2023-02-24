@@ -1,0 +1,18 @@
+	_____________________________________________________
+		CURRENT MOVIES IN YOUR TOWN
+	_____________________________________________________
+
+		1  BAHUBALI         :  "ASIAN MALL"
+		2  TITANIC          :  "S2 MULIPLEX"	
+		3  KGF(CHAPTER-2)   :  "URVASHI THEATER"
+		4  SAAHO            :  "KRISHNA THEATER"
+		5  VAKIL SAB        :  "ASHOKA THEATER"
+		6  AVATAR           :  "RAJESH THEATER"
+		7  UPPENA           :  "JAGADAMBA THEATER"
+	_____________________________________________________
+
+		8  CLEAR/GOBACK
+		9  QUIT THE TERMINAL
+
+	*****************************************************
+
